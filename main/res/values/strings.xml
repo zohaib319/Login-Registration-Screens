@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Travel Cheats</string>
+
+
+    <!-- Strings for login screen -->
+    <string name="login_namefield">Name</string>
+    <string name="login_emailfield">Email</string>
+    <string name="login_instruction">New Here? Sign Up</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Sign Up</string>
+    <string name="login_passwordfield">Password</string>
+    <string name="signin_social">Sign In With Facebook</string>
+    <!-- Strings for login screen ends here-->
+
+    <!-- Strings for Register Screen screen -->
+    <string name="title_namefield">Name</string>
+    <string name="title_emailfield"></string>
+    <string name="register_instruction">Already a User? Sign In</string>
+    <string name="confirm_password">Confirm Password</string>
+
+</resources>
